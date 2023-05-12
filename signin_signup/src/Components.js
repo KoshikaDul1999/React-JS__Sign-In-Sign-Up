@@ -13,5 +13,6 @@ export const Container = styled.div`
 
 export const SignUpContainer = styled.div`
     position: absolute;
-    top
+    top 0;
+    height
 `;
